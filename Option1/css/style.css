@@ -16,11 +16,11 @@ text-align: center;
   background-color: black;
 }
 img {
-  width: 50%;
-  height: 50%px;
+  width: 20%;
+  height: 20%;
 }
 html {
-  color: white;
+  color: darkgoldenrod;
   font-size: 1em;
   line-height: 1.4;
 }
@@ -36,7 +36,10 @@ h5 {
 button {
   font-size: large;
 }
-
+button {
+  color: ;
+  background-color: rebeccapurple;
+}
 
 /*
  * Remove text-shadow in selection highlight:

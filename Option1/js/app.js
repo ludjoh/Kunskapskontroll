@@ -58,7 +58,7 @@ if (playerRoll === A1Roll) {
 function showUpdatedScoreboard() {
   scoreboardPlayer.innerHTML = "Spelare Vinster: " + playerWins;
   scoreboardTies.innerHTML = "Oavgjorda: " + ties;
-  scoreboardA1.innerHTML = "Dator Vnster: " + A1Wins;
+  scoreboardA1.innerHTML = "Dator Vinster: " + A1Wins;
 }
 
 function showResultRoll() {
